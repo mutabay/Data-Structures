@@ -79,9 +79,12 @@ cmake-build-debug/
 hs_err_pid*
 replay_pid*
 
+*.xml
 
 /build
 /dist
 /nbproject
 build.xml
 manifest.mf
+
+
