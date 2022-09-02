@@ -1,35 +1,57 @@
-# Data-Structures 2
+# Data-Structures
 
 
 
 <hr>
 
 
-### All of the codes are written by C except LinearProbing-Hash
+### All of the codes are written by C except LinearProbing-Hash and Java Implementations
 
-> AVL-SelfBalancedTree [ AVL Self Balanced Tree Implementation ]    
-> Graphs-BreadFirstTopologicalSort [ Graphs Implementation with BreadFirstTopologicalSort Algorithm ]   
-> Graphs-DjikstraAlgorithm [ Graphs Implementation with Djikstra Shortest Path Algorithm ]    
-> Graphs [ Simple Graph Implementation ]    
-> LinearProbing [ Hash Implementation using Linear Probing Method - Java ]    
-> Seperate_Chaining [ Hash Implementation using Seperate Chaining Method ]    
+#### Generators   
+  > Function Generator .h .c [ Array Functions ]
+
+#### General [ General macros and functions ]
+  > General .h .c 
+
+#### Double Linked List 
+  > DLL .h .c
+
+#### Stack [With using arrays and single linked lists]
+  > Arr_Stack .h .c 
+  > SLL_Stack .h .c 
+
+#### Queue [With using arrays and single linked lists]
+  > Arr_Queue  .h .c 
+  > SLL_Queue  .h .c
+
+#### Binary Search Tree Implementation
+  > BST .h .c
+
+#### Java Implementation
+  > MyLinkedList Project = > Stack_Arr, Stack_LL, Queue_Arr, Queue_LL, SingleLinkedList, Node
+
+#### Simple Graph Implementation
+  > Graphs 
+
+####  AVL Self Balanced Tree Implementation
+  > AVL-SelfBalancedTree 
+
+#### Graphs Implementation with BreadFirstTopologicalSort Algorithm
+  > Graphs-BreadFirstTopologicalSort 
+
+#### Graphs Implementation with Djikstra Shortest Path Algorithm
+  > Graphs-DjikstraAlgorithm   
+
+#### Hash Implementation using Linear Probing Method - Java
+> LinearProbing   
+
+#### Hash Implementation using Seperate Chaining Method
+> Seperate_Chaining 
+
 
 
 
 <hr>
 
 
-
-### Files    
-
-General .h .c [ Single Linked List Implementation and defining general macros ]
-
-SingleLinkedList .h .c [ Single Linked List Implementation ]
-
-SLL_Queue [ Queue Implementation using single linked list ]
-Queue_SLL [ Queue Implementation using single linked list ]
-
-BST [ AVL Binary Search Tree Implementation ]
-
-Graph [ Graph Impelementation ]
 
